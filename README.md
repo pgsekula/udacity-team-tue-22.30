@@ -6,7 +6,7 @@ This repository keep records of useful resources from the team's weekly meetings
 
 ![Screenshot where to find support](img/wk-01-udacity-support.jpg)
 
-- Sublime Text Editor package control:
+- Sublime Text Editor package control: (for other editors, please google it's package manager or extension manager)
   - Package Control: https://packagecontrol.io/
   - Installing Package Control: https://www.youtube.com/watch?v=YvX8uwwJ5kg
   - Emmet - a very useful package to improve HTML & CSS coding work: http://emmet.io/
